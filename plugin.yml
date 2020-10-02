@@ -1,0 +1,5 @@
+name: AppleCooldown
+version: 1.0
+api: 3.12.2
+author: Ignacio
+main: Ignacio\AppleCooldown\Main
