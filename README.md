@@ -7,4 +7,4 @@
 
 * Drop in plugin folder
 * Restart the server
-* check plugindata for condig.yml where you can edit the cooldown/text
+* check plugindata for config.yml where you can edit the cooldown/text
