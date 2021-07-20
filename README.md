@@ -1,4 +1,4 @@
-# AppleCooldown
+# AppleCooldown [![](https://poggit.pmmp.io/shield.state/AppleCooldown)](https://poggit.pmmp.io/p/AppleCooldown)
 - Enchanted Apple cooldown plugin for Pocketmine.
 - Highly configurable plugin that has a cooldown timer between eating Enchanted Apples. 
 - Color formatting is supported
